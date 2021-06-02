@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Nikol/CLionProjects/Mandatory2/card/showCards.h
+../utils/bingo.h
+C:/Users/Nikol/CLionProjects/Mandatory2/utils/bingo.h
+../utils/game.h
+C:/Users/Nikol/CLionProjects/Mandatory2/utils/game.h
+../utils/card.h
+C:/Users/Nikol/CLionProjects/Mandatory2/utils/card.h
+
+C:/Users/Nikol/CLionProjects/Mandatory2/game/gameState.c
+stdio.h
+-
+stdlib.h
+-
+gameState.h
+C:/Users/Nikol/CLionProjects/Mandatory2/game/gameState.h
+
+C:/Users/Nikol/CLionProjects/Mandatory2/game/gameState.h
+../utils/bingo.h
+C:/Users/Nikol/CLionProjects/Mandatory2/utils/bingo.h
+../utils/game.h
+C:/Users/Nikol/CLionProjects/Mandatory2/utils/game.h
+../card/showCards.h
+C:/Users/Nikol/CLionProjects/Mandatory2/card/showCards.h
+
+C:/Users/Nikol/CLionProjects/Mandatory2/utils/bingo.h
+card.h
+C:/Users/Nikol/CLionProjects/Mandatory2/utils/card.h
+
+C:/Users/Nikol/CLionProjects/Mandatory2/utils/card.h
+
+C:/Users/Nikol/CLionProjects/Mandatory2/utils/game.h
+

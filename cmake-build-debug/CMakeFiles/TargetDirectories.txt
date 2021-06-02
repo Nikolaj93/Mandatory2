@@ -1,0 +1,3 @@
+C:/Users/Nikol/CLionProjects/Mandatory2/cmake-build-debug/CMakeFiles/Mandatory2.dir
+C:/Users/Nikol/CLionProjects/Mandatory2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nikol/CLionProjects/Mandatory2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
