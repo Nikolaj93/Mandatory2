@@ -2,7 +2,8 @@ Name: Nikolaj Oxholm Bruun-Hansen
 Group: Alone
 Mandatory: Banko Play C-programming
 
-Description: I decided to go with the Banko Play C programming mandatory.
+Description: 
+I decided to go with the Banko Play C programming mandatory.
 Unfortunately I didn't have any buttons/keypad to connect to the Arduino,
 so this mandatory is pure C programming.
 I have tried to include topics as modular programming(.c & .h files),
