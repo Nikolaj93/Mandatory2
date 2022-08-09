@@ -1,5 +1,5 @@
-#ifndef MANDATORY2_CARD_H
-#define MANDATORY2_CARD_H
+#ifndef C-PROGRAMMING-EXAM_CARD_H
+#define C-PROGRAMMING-EXAM_CARD_H
 
 #define ROWS 3
 #define COLUMNS 9
@@ -9,4 +9,4 @@ typedef struct card {
     int id;
 } Card;
 
-#endif //MANDATORY2_CARD_H
+#endif //C-PROGRAMMING-EXAM_CARD_H
