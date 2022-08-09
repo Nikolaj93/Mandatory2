@@ -1,5 +1,5 @@
-#ifndef MANDATORY2_BINGO_H
-#define MANDATORY2_BINGO_H
+#ifndef C-PROGRAMMING-EXAM_BINGO_H
+#define C-PROGRAMMING-EXAM_BINGO_H
 
 #include "card.h"
 
@@ -13,4 +13,4 @@ typedef struct bingo {
     int numBingos;  // number of bingos
 } Bingo;
 
-#endif //MANDATORY2_BINGO_H
+#endif //C-PROGRAMMING-EXAM_BINGO_H
