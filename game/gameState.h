@@ -1,5 +1,5 @@
-#ifndef MANDATORY2_GAMESTATE_H
-#define MANDATORY2_GAMESTATE_H
+#ifndef C-PROGRAMMING-EXAM_GAMESTATE_H
+#define C-PROGRAMMING-EXAM_GAMESTATE_H
 
 #include "../utils/bingo.h"
 #include "../utils/game.h"
@@ -7,4 +7,4 @@
 
 void gameState(Bingo *bingo, Game *game, int gameMode);
 
-#endif //MANDATORY2_GAMESTATE_H
+#endif //C-PROGRAMMING-EXAM_GAMESTATE_H
