@@ -1,5 +1,5 @@
-#ifndef MANDATORY2_SHOWCARDS_H
-#define MANDATORY2_SHOWCARDS_H
+#ifndef C-PROGRAMMING-EXAM_SHOWCARDS_H
+#define C-PROGRAMMING-EXAM_SHOWCARDS_H
 
 #include "../utils/bingo.h"
 #include "../utils/game.h"
@@ -7,4 +7,4 @@
 
 void showCards(Bingo bingo, Game game, Card *card, int ball, int num);
 
-#endif //MANDATORY2_SHOWCARDS_H
+#endif //C-PROGRAMMING-EXAM_SHOWCARDS_H
