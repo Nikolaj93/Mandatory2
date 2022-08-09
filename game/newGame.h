@@ -1,5 +1,5 @@
-#ifndef MANDATORY2_NEWGAME_H
-#define MANDATORY2_NEWGAME_H
+#ifndef C-PROGRAMMING-EXAM_NEWGAME_H
+#define C-PROGRAMMING-EXAM_NEWGAME_H
 
 #include "../utils/bingo.h"
 #include "../utils/game.h"
@@ -8,4 +8,4 @@
 
 void newGame(Bingo *bingo, Game *game);
 
-#endif //MANDATORY2_NEWGAME_H
+#endif //C-PROGRAMMING-EXAM_NEWGAME_H
